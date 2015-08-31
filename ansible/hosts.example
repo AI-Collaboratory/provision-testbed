@@ -1,0 +1,2 @@
+[production]
+ciber-testbed.example.com ansible_ssh_user=foo ansible_sudo=true data_folder=/opt/testbed bdusername=mybrowndog bdpassword=bdpass dtsusername=user@example.com dtspassword=userpw
